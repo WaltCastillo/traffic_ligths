@@ -7,7 +7,7 @@ export function TrafficLight() {
 	//               ⬆ function to change the color
 
 	return (
-		<div>
+		<div className="container">
 			<div id="top"></div>
 			<div className="main">
 				<div

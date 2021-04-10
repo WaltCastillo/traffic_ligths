@@ -1,6 +1,13 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
 
+.container{
+    background-color: gray;
+    padding: 40px;
+  
+}
+
+
 .main{
     background-color:black;
     width: 100px;
@@ -24,10 +31,4 @@
     
 }
 
-#top{
-    background-color:black;
-    width: 10px;
-    height: 200px;
-    margin: auto;
-}
 
